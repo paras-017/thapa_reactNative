@@ -1,12 +1,15 @@
-import { Image, StyleSheet, Text, View } from 'react-native'
+import { Image, ScrollView, StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 import Flatlist from './components/Flatlist'
 import Images from './components/Images'
 import Buttons from './components/Buttons'
+import States from './components/States'
 
 const App = () => {
   const name ='paras'
   return (
+    <ScrollView>
+
     <View style={styles.container}>
       <Text style={styles.blue}>Welcome to Paras Food4Paws</Text>
       <Text style={[styles.blue,styles.bold]}>WE provide free cat food</Text>
@@ -14,7 +17,9 @@ const App = () => {
       <Flatlist/>
       <Images/>
       <Buttons/>
+      <States/>
     </View>
+    </ScrollView>
   )
 }
 
