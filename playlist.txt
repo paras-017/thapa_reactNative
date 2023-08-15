@@ -26,3 +26,17 @@ v25: https://www.youtube.com/watch?v=UxlduV8V8_c&list=PLwGdqUZWnOp354xMD8u0hxX-1
 v26: https://www.youtube.com/watch?v=tT9yYM64Nl4&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=17
 v27: https://www.youtube.com/watch?v=hLhyAcklvKk&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=16
 v28: https://www.youtube.com/watch?v=0o-Y1wLz2Ec&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=15
+v29: https://www.youtube.com/watch?v=f_CfbzV7VK0&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=14
+v30: https://www.youtube.com/watch?v=YWWfj2HZ7Iw&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=14
+v31: https://www.youtube.com/watch?v=L6AYquaHvWk&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=12
+v32: https://www.youtube.com/watch?v=bLaGEmJd5vA&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=11
+v33: https://www.youtube.com/watch?v=bcTAJkTwhLU&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=10
+v34: https://www.youtube.com/watch?v=McK6Q0v-YY0&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=9
+v35: https://www.youtube.com/watch?v=soRZc995hSM&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=8
+v36: https://www.youtube.com/watch?v=SXqDihe-T6w&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=7
+v37: https://www.youtube.com/watch?v=0Sp2LUQ_XcE&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=6
+v38: https://www.youtube.com/watch?v=1Ml7eN1KoTE&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=5
+v39: https://www.youtube.com/watch?v=irNeZ3alYtI&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=4
+v40: https://www.youtube.com/watch?v=fyJ2UZk5iJ4&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=3
+v41: https://www.youtube.com/watch?v=u-p8_0irsuk&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=2
+v42: https://www.youtube.com/watch?v=pBEeQ6B6bUI&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=1

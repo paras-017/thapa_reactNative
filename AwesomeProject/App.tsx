@@ -4,6 +4,7 @@ import Flatlist from './components/Flatlist'
 import Images from './components/Images'
 import Buttons from './components/Buttons'
 import States from './components/States'
+import ContactPage from './components/ContactPage'
 
 const App = () => {
   const name ='paras'
@@ -11,14 +12,16 @@ const App = () => {
     <ScrollView>
 
     <View style={styles.container}>
-      <Text style={styles.blue}>Welcome to Paras Food4Paws</Text>
+      {/* <Text style={styles.blue}>Welcome to Paras Food4Paws</Text>
       <Text style={[styles.blue,styles.bold]}>WE provide free cat food</Text>
       <Text style={styles.textSmRed}>Welcome to {name} Food4Paws</Text>
       <Flatlist/>
       <Images/>
-      <Buttons/>
-      <States/>
+      <Buttons/> */}
+      {/* <States/> */}
+      <ContactPage/>
     </View>
+
     </ScrollView>
   )
 }
