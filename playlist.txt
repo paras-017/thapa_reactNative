@@ -23,3 +23,5 @@ v22: https://www.youtube.com/watch?v=JPypdr37gOM&list=PLwGdqUZWnOp354xMD8u0hxX-1
 v23: https://www.youtube.com/watch?v=kEvPdZ-9Y4A&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=21
 v24: https://www.youtube.com/watch?v=_oU1_oK93sU&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=19
 v25: https://www.youtube.com/watch?v=UxlduV8V8_c&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY
+v26: https://www.youtube.com/watch?v=tT9yYM64Nl4&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=17
+v27: https://www.youtube.com/watch?v=hLhyAcklvKk&list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY&index=16
